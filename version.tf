@@ -6,7 +6,6 @@ terraform {
       version = "~> 5.29.0"
     }
   }
- 
 cloud {
     organization = "krlab_terra"
 
@@ -14,5 +13,4 @@ cloud {
       name = "aws-ws"
     }
   }
-
 }
